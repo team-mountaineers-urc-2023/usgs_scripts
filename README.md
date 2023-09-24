@@ -1,6 +1,6 @@
 # USGS Scripts
 
-## 0. Download laz files
+## 1. Download laz files
 
 ### Option 1. Use [download_helper.py](download_helper.py) and [download_merger.py](download_merger.py)
 Helper script that automates option #2 and give you a list of files to download that cover a rectange centered at a gps point. Run it for more help. Use the download_merger to merge several URL files and remove redundant URLs.
