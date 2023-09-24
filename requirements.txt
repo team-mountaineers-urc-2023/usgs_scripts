@@ -1,0 +1,6 @@
+pyproj
+laspy[lazrs,laszip]
+tifffile
+matplotlib
+tqdm
+requests

@@ -1,0 +1,6 @@
+.vscode/
+*.tiff
+*.png
+*.laz
+*.txt
+!requirements.txt
